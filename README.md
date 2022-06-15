@@ -1,5 +1,5 @@
-#Make-your-burger
+Make-your-burger
 
-##Projeto realizado durante o curso de Vue.js 
+Projeto realizado durante o curso de Vue.js 
 
-###Disponível em: https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
+Disponível em: https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
