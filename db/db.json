@@ -79,50 +79,6 @@
   ],
   "burgers": [
     {
-      "nome": "nubia",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Cebola roxa",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "nubia",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "nubia",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "teste",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
       "nome": "jurema",
       "carne": "Maminha",
       "pao": "Parmesão e Orégano",
@@ -135,6 +91,17 @@
       ],
       "status": "Solicitado",
       "id": 5
+    },
+    {
+      "nome": "norberto",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Salame",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 6
     }
   ]
 }
