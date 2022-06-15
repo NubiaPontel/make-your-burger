@@ -89,7 +89,7 @@
         "Cheddar",
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 5
     },
     {
@@ -100,8 +100,22 @@
         "Salame",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 6
+    },
+    {
+      "nome": "nubia",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Tomate",
+        "Pepino",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 7
     }
   ]
 }
